@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@formspree/react": "^2.5.1",
+    "@formspree/react": "^2.5.1", 
     "@metaplex-foundation/mpl-token-metadata": "^2.3.3",
     "@next/font": "13.4.13",
     "@openzeppelin/contracts": "^4.9.3",
